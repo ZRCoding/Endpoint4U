@@ -22,5 +22,5 @@ https://endpoint4u.projectagon.repl.co
         <br/>Example: ``&width=256``
         - ``height``, the height that this model should be scaled to. 512 pixels if this parameter is not included. Maxiumum: 1024.
         <br/>Example: ``&height=1024``
-        - ``rotation``, the rotation value (in degrees) of this model. Rotates clockwise.
+        - ``rotation``, the rotation value (in degrees) of this model. Rotates **counter-clockwise.**
         <br/>Example: ``&rotation=180``
