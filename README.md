@@ -19,6 +19,6 @@ https://endpoint4u.projectagon.repl.co
         Example: ``?skin=2000GameModel``
     - **Optional Parameters**
         - ``width``, the width that this model should be scaled to. 512 pixels if this parameter is not included. Maximum: 1024.
-        Example: ``&width=256``
+        <br/>Example: ``&width=256``
         - ``height``, the height that this model should be scaled to. 512 pixels if this parameter is not included. Maxiumum: 1024.
-        Example ``&height=1024``
+        <br/>Example: ``&height=1024``
