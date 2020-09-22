@@ -13,7 +13,7 @@ https://endpoint4u.projectagon.repl.co/
 
 ### Features
 
-- ``/model/body/`` - Generates a body model<br/><br/>
+- ``/model/body/`` - Generates a player model which includes hands and shadow<br/><br/>
     - **Required Parameters**
         - ``skin``, the internal name of the skin this model should use.
         Example: ``?skin=2000GameModel``<br/><br/>
