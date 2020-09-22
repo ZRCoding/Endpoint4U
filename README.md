@@ -23,4 +23,7 @@ https://endpoint4u.projectagon.repl.co/
         - ``height``, the height that this model should be scaled to. 512 pixels if this parameter is not included. Maxiumum: 1024.
         <br/>Example: ``&height=1024``
         - ``rotation``, the rotation value (in degrees) of this model. Rotates **counter-clockwise.**
-        <br/>Example: ``&rotation=180``
+        <br/>Example: ``&rotation=180``<br/><br/>
+    - **Output**<br/>
+        ![image](https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256)
+        
