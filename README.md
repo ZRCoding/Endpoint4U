@@ -13,10 +13,10 @@ https://endpoint4u.projectagon.repl.co
 
 ### Features
 
-- ``/model/body/`` - Generates a body model
+- ``/model/body/`` - Generates a body model<br/><br/>
     - **Required Parameters**
         - ``skin``, the internal name of the skin this model should use.
-        Example: ``?skin=2000GameModel``
+        Example: ``?skin=2000GameModel``<br/><br/>
     - **Optional Parameters**
         - ``width``, the width that this model should be scaled to. 512 pixels if this parameter is not included. Maximum: 1024.
         <br/>Example: ``&width=256``
