@@ -25,5 +25,6 @@ https://endpoint4u.projectagon.repl.co/
         - ``rotation``, the rotation value (in degrees) of this model. Rotates **counter-clockwise.**
         <br/>Example: ``&rotation=180``<br/><br/>
     - **Output**<br/>
-        - Generated from ``https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256``
+        - Generated from ``https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256``<br/>
+        [image](https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256)
         
