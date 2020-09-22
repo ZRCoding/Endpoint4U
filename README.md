@@ -1,6 +1,6 @@
 # Endpoint4U
 
-Endpoint4U is a flexible, scalable ZombsRoyale.io asset endpoint created by Jamz.
+Endpoint4U is a flexible, up to date and scalable ZombsRoyale.io asset endpoint created by Jamz.
 
 # How to Use
 
@@ -25,5 +25,5 @@ https://endpoint4u.projectagon.repl.co/
         - ``rotation``, the rotation value (in degrees) of this model. Rotates **counter-clockwise.**
         <br/>Example: ``&rotation=180``<br/><br/>
     - **Output**<br/>
-        ![image](https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256)
+        - Generated from ``https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256``
         
