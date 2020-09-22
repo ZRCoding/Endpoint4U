@@ -26,5 +26,5 @@ https://endpoint4u.projectagon.repl.co/
         <br/>Example: ``&rotation=180``<br/><br/>
     - **Output**<br/>
         - Generated from ``https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256``<br/>
-        [image](https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256)
+        ![image](https://endpoint4u.projectagon.repl.co/model/body?skin=AfroPink&width=256&height=256)
         
