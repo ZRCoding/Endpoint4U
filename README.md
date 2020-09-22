@@ -8,7 +8,7 @@ Endpoint4U is a flexible, scalable ZombsRoyale.io asset endpoint created by Jamz
 
 The URL of the API endpoint is
 ```
-https://endpoint4u.projectagon.repl.co
+https://endpoint4u.projectagon.repl.co/
 ```
 
 ### Features
